@@ -10,5 +10,6 @@ Every source code files from HCMUS-StarterTrio virtual participations.
 | [The 3rd Universal Cup. Stage 3: Ukraine](https://contest.ucup.ac/contest/1714) | 06.06.2026 | 208 | 6 | 890 | https://youtu.be/os9TwXUb-Vg |
 | [The 4th Universal Cup. Stage 14: Grand Prix of Hong Kong](https://contest.ucup.ac/contest/3169) | 13.06.2026 | 282 | 3 | 577 | https://youtu.be/MdRTinahw8Y |
 | [The 3rd Universal Cup. Stage 25: Hangzhou](https://contest.ucup.ac/contest/1893) | 25.06.2026 | 221 | 6* | 761 | https://youtu.be/6ZzaTDKZsmU |
+| [The 2nd Universal Cup. Stage 17: Jinan](https://contest.ucup.ac/contest/1472) | 11.07.2026 | 159 | 7* | 788 | |
 
 *\* Not counting an additional problem solved right after the main contest time.*

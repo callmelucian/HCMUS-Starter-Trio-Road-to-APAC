@@ -13,5 +13,6 @@ Every source code files from HCMUS-StarterTrio virtual participations.
 | [The 2nd Universal Cup. Stage 17: Jinan](https://contest.ucup.ac/contest/1472) | 11.07.2026 | 159 | 7* | 788 | |
 | HCMUS ICPC Training Camp 2026, Round 1 *(private contest)* | 19.07.2026 | 4 | 6* | 843 |
 | HCMUS ICPC Training Camp 2026, Round 3 *(private contest)* | 02.08.2026 | 2 | 7** | 1408 |
+| HCMUS ICPC Training Camp 2026, Round 4 *(private contest)* | 02.08.2026 | 1 | 11 | 867 |
 
 *\* Not counting an additional problem solved right after the main contest time.*

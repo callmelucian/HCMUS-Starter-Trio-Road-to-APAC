@@ -18,6 +18,6 @@ Every source code files from HCMUS-StarterTrio virtual participations.
 | 12 | HCMUS ICPC Training Camp 2026, Round 6 *(private contest)* | 23.08.2026 | 3 | 5 | 889 |
 | 13 | [The 3rd Universal Cup. Stage 1: St. Petersburg](https://contest.ucup.ac/contest/1696) | 29.08.2026 | 237 | 5 | 583 | https://youtu.be/4W4My2U2IkA |
 | 14 | [The 2nd Universal Cup. Stage 25: Shenzhen](https://contest.ucup.ac/contest/1540) | 04.09.2026 | 249 | 6 | 838 | https://youtu.be/u2mi3KIa-Go |
-| 15 | [The 4th Universal Cup. Stage 20: Grand Prix of India](https://contest.ucup.ac/contest/3516) | 06.09.2026 | 75 | 7 | 1314 | https://youtu.be/gXwQ92k59So |
+| 15 | [The 4th Universal Cup. Stage 20: Grand Prix of India](https://contest.ucup.ac/contest/3516) *(training with HCMUS-Tranquillitatis)* | 06.09.2026 | 75 | 7 | 1314 | https://youtu.be/gXwQ92k59So |
 
 *\* Not counting an additional problem solved right after the main contest time.*

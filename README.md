@@ -21,5 +21,6 @@ Every source code files from HCMUS-StarterTrio virtual participations.
 | 15 | [The 4th Universal Cup. Stage 20: Grand Prix of India](https://contest.ucup.ac/contest/3516) *(training with HCMUS-Tranquillitatis)* | 06.09.2026 | 75 | 7 | 1314 | https://youtu.be/U11Lj7tddvY |
 | 16 | HCMUS ICPC Training Camp 2026, Round 7 *(private contest)* | 20.09.2026 | 2 | 9 | 1374 | |
 | 17 | [The 2025 Asia Yokohama Regional Contest](https://codeforces.com/gym/106268) *(training with HCMUS-Tranquillitatis)* | 27.09.2026 | 128 | 4 | 880 | https://youtu.be/rOL5j8s-ZiI |
+| 18 | [The 2025 ICPC Asia Jakarta Onsite Regional Contest](https://qoj.ac/contest/2755) | 29.09.2026 | 22 | 8 | 965 | https://youtu.be/s8sdBrcCtVI |
 
 *\* Not counting an additional problem solved right after the main contest time.*

@@ -1,6 +1,6 @@
 # HCMUS-StarterTrio Road to APAC 2027
 
-Every source code files from HCMUS-StarterTrio virtual participations.
+Every source code files from HCMUS-StarterTrio contest participations, **official contests are in bold**.
 
 | No. | Contest | Date | Rank | ACs | Penalty | Record |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -22,6 +22,7 @@ Every source code files from HCMUS-StarterTrio virtual participations.
 | 16 | HCMUS ICPC Training Camp 2026, Round 7 *(private contest)* | 20.09.2026 | 2 | 9 | 1374 | |
 | 17 | [The 2025 ICPC Asia Yokohama Regional Contest](https://codeforces.com/gym/106268) *(training with HCMUS-Tranquillitatis)* | 27.09.2026 | 128 | 4 | 880 | https://youtu.be/rOL5j8s-ZiI |
 | 18 | [The 2025 ICPC Asia Jakarta Onsite Regional Contest](https://qoj.ac/contest/2755) | 29.09.2026 | 22 *(6)* | 8 | 965 | https://youtu.be/s8sdBrcCtVI |
-| 19 | [The 2025 ICPC Southwestern Europe Regional Contest (SWERC 2025)](https://qoj.ac/contest/2692) | 10.01.2026 | 23 *(8)* | 9 | 879 | https://youtu.be/mfLRwK4XI9o |
+| 19 | [The 2025 ICPC Southwestern Europe Regional Contest (SWERC 2025)](https://qoj.ac/contest/2692) | 01.10.2026 | 23 *(8)* | 9 | 879 | https://youtu.be/mfLRwK4XI9o |
+| **20** | **The 2026 ICPC HCMUS Elimination Contest *(private contest)*** | **04.10.2026** | | **12** | | |
 
 *\* Not counting an additional problem solved right after the main contest time.*

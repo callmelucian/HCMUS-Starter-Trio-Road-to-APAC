@@ -24,5 +24,6 @@ Every source code files from HCMUS-StarterTrio contest participations, **officia
 | 18 | [The 2025 ICPC Asia Jakarta Onsite Regional Contest](https://qoj.ac/contest/2755) | 29.09.2026 | 22 *(6)* | 8 | 965 | https://youtu.be/s8sdBrcCtVI |
 | 19 | [The 2025 ICPC Southwestern Europe Regional Contest (SWERC 2025)](https://qoj.ac/contest/2692) | 01.10.2026 | 23 *(8)* | 9 | 879 | https://youtu.be/mfLRwK4XI9o |
 | **20** | **The 2026 ICPC HCMUS Elimination Contest *(private contest)*** | **04.10.2026** | **2** | **12** | **1568** | |
+| 21 | [The 2nd Universal Cup. Stage 22: Hangzhou](https://contest.ucup.ac/contest/1516) | 05.10.2026 | 395 | 5 | 880 | |
 
 *\* Not counting an additional problem solved right after the main contest time.*

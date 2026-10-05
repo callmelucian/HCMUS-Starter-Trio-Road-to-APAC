@@ -1,0 +1,85 @@
+2
+11
+A A 1 accepted
+B B 1 accepted
+C C 2 accepted
+D D 2 accepted
+E E 2 accepted
+F F 2 accepted
+G G 2 accepted
+H H 2 accepted
+I I 2 accepted
+J J 2 accepted
+K K 2 accepted
+12
+A A 1 accepted
+A X 1 accepted
+K K 1 rejected
+B B 2 accepted
+C C 2 accepted
+D D 2 accepted
+E E 2 accepted
+F F 2 accepted
+G G 2 accepted
+H H 2 accepted
+I I 2 accepted
+J J 2 accepted
+
+2
+13
+A A 1 accepted
+A X 1 accepted
+K K 1 rejected
+B B 2 accepted
+C C 2 accepted
+D D 2 accepted
+E E 2 accepted
+F F 2 accepted
+G G 2 accepted
+H H 2 accepted
+I I 2 accepted
+J J 2 accepted
+K K 2 rejected
+12
+A A 1 accepted
+A X 1 accepted
+B B 2 accepted
+C C 2 accepted
+D D 2 accepted
+E E 2 accepted
+F F 2 accepted
+G G 2 accepted
+H H 2 accepted
+I I 2 accepted
+J J 2 rejected
+K K 2 rejected
+
+2
+2
+jiangly_fan A 1 accepted
+jiangly B 23 accepted
+3
+conqueror_of_tourist A 1 accepted
+conqueror_of_tourist A 2 accepted
+tourist B 23 accepted
+
+2
+5
+TSxingxing10 G 0 rejected
+TSxingxing10 B 83 accepted
+aoliaoligeiliao J 98 accepted
+TS1 J 118 accepted
+TS1 B 263 accepted
+12
+AllWayTheNorth A 0 rejected
+YaoYaoLingXian Y 10 accepted
+XuejunXinyoudui1 X 200 rejected
+XuejunXinyoudui1 X 200 accepted
+LetItRot L 215 accepted
+AllWayTheNorth W 250 accepted
+ImYourFan I 257 accepted
+ImYourFan Y 257 accepted
+AllWayTheNorth T 264 accepted
+XuejunXinyoudui1 J 294 accepted
+LetItRot I 299 accepted
+LetItRot I 299 rejected

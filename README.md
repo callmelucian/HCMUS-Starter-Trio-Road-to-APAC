@@ -1,6 +1,6 @@
 # HCMUS-StarterTrio Road to APAC 2027
 
-Every source code files from HCMUS-StarterTrio contest participations, **official contests are in bold**.
+Every source code files from HCMUS-StarterTrio contest participations, **official contest participations are in bold**.
 
 | No. | Contest | Date | Rank | ACs | Penalty | Record |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |

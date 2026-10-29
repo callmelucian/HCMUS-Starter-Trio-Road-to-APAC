@@ -17,7 +17,7 @@ Every source code files from HCMUS-StarterTrio contest participations, **officia
 | 11 | HCMUS ICPC Training Camp 2026, Round 5 *(private contest)* | 16.08.2026 | 16 | 5 | 289 |
 | 12 | HCMUS ICPC Training Camp 2026, Round 6 *(private contest)* | 23.08.2026 | 3 | 5 | 889 |
 | 13 | [The 3rd Universal Cup. Stage 1: St. Petersburg](https://contest.ucup.ac/contest/1696) | 29.08.2026 | 237 | 5 | 583 | https://youtu.be/4W4My2U2IkA |
-| 14 | [The 2nd Universal Cup. Stage 25: Shenzhen](https://contest.ucup.ac/contest/1540) | 04.09.2026 | 249 | 6 | 838 | https://youtu.be/u2mi3KIa-Go |
+| 14 | [The 2nd Universal Cup. Stage 25: Shenzhen](https://contest.ucup.ac/contest/1540) | 03.09.2026 | 249 | 6 | 838 | https://youtu.be/u2mi3KIa-Go |
 | 15 | [The 4th Universal Cup. Stage 20: Grand Prix of India](https://contest.ucup.ac/contest/3516) *(training with HCMUS-Tranquillitatis)* | 06.09.2026 | 75 | 7 | 1314 | https://youtu.be/U11Lj7tddvY |
 | 16 | HCMUS ICPC Training Camp 2026, Round 7 *(private contest)* | 20.09.2026 | 2 | 9 | 1374 | |
 | 17 | [The 2025 ICPC Asia Yokohama Regional Contest](https://codeforces.com/gym/106268) *(training with HCMUS-Tranquillitatis)* | 27.09.2026 | 128 | 4 | 880 | https://youtu.be/rOL5j8s-ZiI |
@@ -28,6 +28,7 @@ Every source code files from HCMUS-StarterTrio contest participations, **officia
 | 22 | [The 2026 ICPC Vietnam Northern Provincial Contest](https://oj.vnoi.info/contest/icpc26_mb) | 14.10.2026 | 26 *(6)* | 7 | 609 | https://youtu.be/C6WgiMgfySY |
 | 23 | **[The 2026 ICPC Vietnam Southern Provincial Contest](https://oj.vnoi.info/contest/icpc26_mn)** | **18.10.2026** | **9** | **6** | **520** | |
 | 24 | [The 2025 ICPC Northern Eurasia Finals](https://qoj.ac/contest/2785) | 19.10.2026 | 133 | 6 | 617 | https://youtu.be/G0j_znG5rYQ |
-| 25 | [The 3rd Universal Cup. Stage 9: Xi'an](https://qoj.ac/contest/1784) | 27.10.2026 | 94 | 7 | 884 | |
+| 25 | [The 3rd Universal Cup. Stage 9: Xi'an](https://qoj.ac/contest/1784) | 26.10.2026 | 94 | 7 | 884 | https://youtu.be/KvNeyL72Z5w |
+| 26 | [The 2022-2023 ICPC Asia Pacific - Jakarta Regional](https://qoj.ac/contest/1109) | 28.10.2026 | 26 *(2)* | 8 | 1308 | https://youtu.be/ntmz1FPXoOc |
 
 *\* Not counting an additional problem solved right after the main contest time.*

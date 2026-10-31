@@ -28,7 +28,7 @@ Every source code files from HCMUS-StarterTrio contest participations, **officia
 | 22 | [The 2026 ICPC Vietnam Northern Provincial Contest](https://oj.vnoi.info/contest/icpc26_mb) | 14.10.2026 | 26 *(6)* | 7 | 609 | https://youtu.be/C6WgiMgfySY |
 | 23 | **[The 2026 ICPC Vietnam Southern Provincial Contest](https://oj.vnoi.info/contest/icpc26_mn)** | **18.10.2026** | **9** | **6** | **520** | |
 | 24 | [The 2025 ICPC Northern Eurasia Finals](https://qoj.ac/contest/2785) | 19.10.2026 | 133 | 6 | 617 | https://youtu.be/G0j_znG5rYQ |
-| 25 | [The 3rd Universal Cup. Stage 9: Xi'an](https://qoj.ac/contest/1784) | 26.10.2026 | 94 | 7 | 884 | https://youtu.be/KvNeyL72Z5w |
+| 25 | [The 3rd Universal Cup. Stage 9: Xi'an](https://qoj.ac/contest/1784) | 26.10.2026 | 94 | 7* | 884 | https://youtu.be/KvNeyL72Z5w |
 | 26 | [The 2022-2023 ICPC Asia Pacific - Jakarta Regional](https://qoj.ac/contest/1109) | 28.10.2026 | 26 *(2)* | 8 | 1308 | https://youtu.be/ntmz1FPXoOc |
 
 *\* Not counting an additional problem solved right after the main contest time.*
